@@ -11,3 +11,7 @@ A sample run could look like this:
 JH AH 4S KC QC AD QD 7D AS KD 5C 7H KH 3C JC 2C
 4D 8H AC 5S 10C JS 3H 9S 8D 10D 8S 6C QH 8C JD 3S
 QS 6D 10H 6H
+
+Create a java project 
+Create 3 classes.
+Use .java files to run your program. 
